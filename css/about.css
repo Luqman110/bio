@@ -1,0 +1,28 @@
+
+
+span{
+    color: #00abf0;
+}
+.container1{
+    
+    background-color: black;
+    height: 100%;
+    width: 70%;
+    /* margin-left: 250px; */
+   border-radius: 10px 10px 10px 10px;
+  box-shadow: 5px 5px 5px 5px #00abf0;
+}
+#img1{
+    height: 400px;
+    width:100%;
+   margin-top: 40px;
+   
+} 
+/* @media(max-width:375px){
+    .img1{
+       
+        width: 80%;
+        box-shadow: 2px 2px 10px white;
+        object-fit: cover;
+    }
+} */
